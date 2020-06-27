@@ -1,0 +1,1 @@
+docker exec -i archcraft_minecraft_1 rcon-cli
